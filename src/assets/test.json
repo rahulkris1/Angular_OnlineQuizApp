@@ -1,0 +1,142 @@
+{"questions" : [
+    {   
+        "questionId" : 1,
+        "question" : "1. Router is part of which of the following module??",
+        "options"  : 
+                    [
+                        "@angular/core",
+                        "@angular/router",
+                        "Both",
+                        "None of the above"
+                    ],
+        "answer" : "@angular/router",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 2,
+        "question" : "2. What is .subscribe?",
+         "options"  : 
+                    [
+                        "Streams data in asynchronously",
+                        "Streams data in synchronously",
+                        "Both",
+                        "None of the above"
+                    ],
+        "answer" : "Streams data in asynchronously",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 3,
+        "question" : "3. What is the scripting language used in Angular8?",
+        "options"  : 
+                    [
+                        "Typescript",
+                        "Javascript",
+                        "HTML",
+                        "Python"
+                    ],
+        "answer" : "Typescript",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 4,
+        "question" : "4. NgModel is used for what type of binding?",
+         "options"  : 
+                    [
+                        "one-way binding",
+                        "Two-way binding",
+                        "NgModel not a valid binding",
+                        "None of the above"
+                    ],
+        "answer" : "Two-way binding",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 5,
+        "question" : "5. Which service can be used to extract route parameters inside component?",
+         "options"  : 
+                    [
+                        "CurrentRoute",
+                        "ActivatedRoute",
+                        "Route",
+                        "Router"
+                    ],
+        "answer" : "Router",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 6,
+        "question" : "6. Which of the following optional table tags is used to add a short description above a table?",
+         "options"  : 
+                    [
+                        "description",
+                        "caption",
+                        "title",
+                        "None of the above"
+                    ],
+        "answer" : "description",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 7,
+        "question" : "7. Select the correct example of an empty element?",
+         "options"  : 
+                    [
+                        "img",
+                        "/img",
+                        "<img></img>",
+                        "None of the above"
+                    ],
+        "answer" : "<img></img>",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 8,
+        "question" : "8. Frontend Language?",
+         "options"  : 
+                    [
+                        "Angular",
+                        "Javascript",
+                        ".Net",
+                        "None of the above"
+                    ],
+        "answer" : "Angular",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 9,
+        "question" : "9. Angular current version?",
+         "options"  : 
+                    [
+                        "v2",
+                        "v6",
+                        "v8",
+                        "None of the above"
+                    ],
+        "answer" : "v8",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    },
+    {
+        "questionId" : 10,
+        "question" : "10. Which of the following does not come under MEAN Stack?",
+         "options"  : 
+                    [
+                        "MongoDB",
+                        "Angular",
+                        "Express",
+                        "Java"
+                    ],
+        "answer" : "Java",
+        "selectedAnswer" : false,
+        "userAnswered" : ""
+    }
+]}
